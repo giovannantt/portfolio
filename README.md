@@ -5,16 +5,20 @@
 ![Screenshot_2](https://github.com/user-attachments/assets/96a51930-6750-40aa-afc2-d2270189a0c2)
 
 Olá! Meu nome é Giovanna e sou Engenheria de Produção, tenho 27 anos e estou cursando Pós Graduação em Ciência de Dados na Universidade Federal de Pernambuco.<br>
-Atualmente, trabalho como Estagiário de Cientista de Dados na Kinea Investimentos (Itaú). Minha paixão está em aprendizado de máquina, ciência de dados, estatística e matemática, e estou constantemente trabalhando em projetos nessas áreas. Explore-os abaixo!
+Atualmente, trabalho como Data Analyst na Agência de Desenvolvimento Econômico do meu Estado.<br>
+Minha paixão está em aprendizado de máquina (ML), ciência de dados, e modelos estatísticos. <br>
+A finalidade da criação do porftolio foi compartilhar meus projetos do curso de Pós Graduação. Explore-os abaixo!
 
-##Projetos
+## Projetos
 
-###CLASSIFICAÇÃO E REGRESSÃO
+### CLASSIFICAÇÃO E REGRESSÃO
 
-###REGRESSÃO E SÉRIES TEMPORAIS
+### REGRESSÃO E SÉRIES TEMPORAIS
 
-###ANÁLISE DE DADOS EXPLORATÓRIOS, CLASSIFICAÇÃO E REGRESSÃO
+### ANÁLISE DE DADOS EXPLORATÓRIOS, CLASSIFICAÇÃO E REGRESSÃO
 
-###ANÁLISE DE DADOS, SQL E POWER BI
+### ANÁLISE DE DADOS, SQL E POWER BI
 
-###CONTATO
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannatabosa/)
