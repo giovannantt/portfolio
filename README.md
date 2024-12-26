@@ -10,7 +10,7 @@ A finalidade da criação do porftolio foi compartilhar meus projetos do curso d
 ## Projetos
 
 ### MACHINE LEARNING 
-#### [**Comparação RN e CNN**](https://github.com/giovannantt/cienciadedados/blob/main/Analytics%20Preditiva%20-%20Desafio%2001.ipynb) ](https://github.dev/giovannantt/cienciadedados/blob/main/Projeto%20Analytics%20%7C%20Investimentos.ipynb)
+#### [**Comparação RN e CNN**][(https://github.dev/giovannantt/cienciadedados/blob/main/Projeto%20Analytics%20%7C%20Investimentos.ipynb)]
 
 - **Descrição**: Classificação de um dataset e comparação da diferença de performance dos modelos ao usar as abordagens de ML e DL no mesmo problema.
 - **Resultados**: O modelo está aprendendo ao longo das épocas, com um aumento na acurácia e uma diminuição na perda. No entanto, o valor da acurácia do modelo (precisão) é baixo, não superando 50%.
