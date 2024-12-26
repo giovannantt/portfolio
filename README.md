@@ -20,13 +20,13 @@ A finalidade da criação do porftolio foi compartilhar meus projetos do curso d
 ### REGRESSÃO E SÉRIES TEMPORAIS
 
 ### ANÁLISE DESCRITIVA DE DATASET
-#### [**Dados Educacionais**] (https://github.com/giovannantt/cienciadedados/blob/main/Projeto%20Analytics%20Descritiva.ipynb)
+#### [**Dados Educacionais**](https://github.com/giovannantt/cienciadedados/blob/main/Projeto%20Analytics%20Descritiva.ipynb)
 - **Descrição**: Análise descritiva voltada para dados educacionais. O dataset que contém dados oriundos do sistema acadêmico da Universidade Federal de Pernambuco, disponível via plataforma de dados abertos. Os dados escolhidos foram os de situação acadêmica (discente). 
 - **Resultados**: Descritivo do dataset de forma visual e gráfica e a geração de insights para organização.
 
   
 ### ANÁLISE DE DADOS FINANCEIROS 
-#### [**Compartivo de Empresas**] (https://github.com/giovannantt/cienciadedados/blob/main/Projeto%20Analytics%20%7C%20Investimentos.ipynb)
+#### [**Compartivo de Empresas**](https://github.com/giovannantt/cienciadedados/blob/main/Projeto%20Analytics%20%7C%20Investimentos.ipynb)
 - **Descrição**:  Análise Demonstrativos Financeiros: A análise foi orientada para investidores, com foco em identificar empresas com bom desempenho financeiro para potenciais aportes de capital do seguimento de Agricultura (Açúcar, Álcool e Cana) como uso do R.
 - **Resultados**: Identificação de empresas líderes em desempenho financeiro, tendências financeiras ao longo do tempo e insights para investidores.
   
